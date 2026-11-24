@@ -1,0 +1,6 @@
+candidate_id,applications,interviews,screening_technical_score,screening_communication_score,status
+1,5,1,55,48,Rejected
+2,8,1,92,88,Interview Pending
+3,5,2,95,89,Hired
+4,10,1,95,91,Interview Pending
+5,6,0,80,85,Interview Pending
